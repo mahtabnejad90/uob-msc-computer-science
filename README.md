@@ -1,4 +1,4 @@
-# Uni of Bath - MSc In Computer Science
+# University of Bath - MSc In Computer Science
 
 ## Introduction:
 
