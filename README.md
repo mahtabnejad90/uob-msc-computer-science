@@ -6,7 +6,7 @@
 
 ## Units:
 
-### Unit 1 - Principles of Programming (In Progress))
+### Unit 1 - Principles of Programming (In Progress)
 
 ### Unit 2 - Software Engineering (Part One)
 
