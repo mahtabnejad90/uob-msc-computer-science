@@ -31,3 +31,29 @@
 ### Unit 12 - Research Seminar & Project Preparation
 
 ### Unit 13 - Final Dissertation
+
+## Repository Structure:
+
+  *   Unit Name Directory
+      *   Week Number Directory
+          *   Lesson Number Directpry
+              *   Lesson Exercise Files
+
+
+## Additionals:
+
+A playground directory will be created for my personal learning related to the languages and concepts I will be learning within this course. This will be either notes or mini coding sessions taught by external resources.
+
+## Primary Programming Languages:
+
+  *   C Lang
+  *   Java
+  *   Python
+
+
+
+
+
+
+
+
