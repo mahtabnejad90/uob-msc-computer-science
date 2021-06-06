@@ -36,7 +36,7 @@
 
   *   Unit Name Directory
       *   Week Number Directory
-          *   Lesson Number Directpry
+          *   Lesson Number Directory
               *   Lesson Exercise Files
 
 
