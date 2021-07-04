@@ -17,3 +17,7 @@ statement - complete command to be executed and can include one or more expressi
 variable - are a way to store information in your computer. Variables defined within a program can be access by a name that is given to them.
         
 expression - a construct that evaluates to a single value
+
+primitive types - basic data types such as; int, boolean, char, short, long, float and double
+
+wrapper class - enables us to perform operations on a primitive type - e.g. Integer for int
