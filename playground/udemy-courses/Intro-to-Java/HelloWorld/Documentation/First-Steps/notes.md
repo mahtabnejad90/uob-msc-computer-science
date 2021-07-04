@@ -20,4 +20,4 @@ expression - a construct that evaluates to a single value
 
 primitive types - basic data types such as; int, boolean, char, short, long, float and double
 
-
+wrapper class - enables us to perform operations on a primitive type - e.g. Integer for int
