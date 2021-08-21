@@ -10,9 +10,9 @@
 
 ### Unit 1 - Principles of Programming - Completed
 
-### Unit 2 - Software Engineering (Part One) - In Progress
+### Unit 2 - Software Engineering (Part One) - Completed
 
-### Unit 3 - Foundations of Computation
+### Unit 3 - Foundations of Computation - In Progress
 
 ### Unit 4 - Software Engineering (Part Two)
 
