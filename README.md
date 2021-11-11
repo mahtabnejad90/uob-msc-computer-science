@@ -12,9 +12,9 @@
 
 ### Unit 2 - Software Engineering (Part One) - Completed
 
-### Unit 3 - Foundations of Computation - In Progress
+### Unit 3 - Foundations of Computation - Completed
 
-### Unit 4 - Software Engineering (Part Two)
+### Unit 4 - Software Engineering (Part Two) - In Progress
 
 ### Unit 5 - Databases and Cloud
 
