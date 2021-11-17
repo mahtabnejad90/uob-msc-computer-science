@@ -2,6 +2,8 @@
 
 ## Introduction:
 
+### Repository Format: Monorepo (Multiple Projects)
+
 ### In this repository I will include mini coding tasks extracted from my learning in the Masters Degree - Computer Science course I am undertaking
 
 ### Note: Graded tasks or assignments will not be published in this repository until further notice or changes!
